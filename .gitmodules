@@ -1,0 +1,6 @@
+[submodule "P1"]
+	path = P1
+	url = https://github.com/unableflood/ECS150Proj1.git
+[submodule "P3"]
+	path = P3
+	url = https://github.com/unableflood/ECS150_PROJECT3.git
